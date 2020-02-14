@@ -8,10 +8,10 @@ class Circle{
   get diameter(){
     return 2*this.radius
   }
-  get diameter(){
+  get circumference(){
     return 2*this.radius
   }
-  get diameter(){
+  get area(){
     return 2*this.radius
   }
 }
