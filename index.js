@@ -18,4 +18,12 @@ class Circle{
   set diameter(dia){
     this.radius=dia/2
   }
+  
+  set diameter(dia){
+    this.radius=dia/2
+  }
+  
+  set diameter(dia){
+    this.radius=dia/2
+  }
 }
