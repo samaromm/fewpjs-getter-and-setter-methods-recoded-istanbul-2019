@@ -23,7 +23,7 @@ class Circle{
     this.radius=cir/(2*Math.PI)
   }
   
-  set diameter(dia){
-    this.radius=dia/2
+  set area(ar){
+    this.radius=ar/(this.radius*Math.PI)
   }
 }
